@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AcademicNetworkUI.Login" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAECAAABgAAwCAAAACAAAACAACAFAAAQBgEEQ=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="AcademicNetworkUI.ThemeManager">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ThemeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademicNetworkUI.EditMessagesForm" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAGgAEAgAAASEAACKAAACAABQAAABBgCAAAA=</HashCode>
+      <FileName>EditMessagesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademicNetworkUI.ForgotPassword" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAASAAABkAIACQAECKCAAAEgAAAFAIASBAEAk=</HashCode>
+      <FileName>ForgotPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademicNetworkUI.MainMenu" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KBFAk8oBgCjBMHhHpYGAIKGalhgKBdByINsNA6KmBwY=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademicNetworkUI.Register" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACACABgAAACAAKACACCAAIBAAFAAAwAgEEE=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademicNetworkUI.UserSettings" Collapsed="true">
+    <Position X="15.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JCACAQgAgGgAJBkAIACAgFACCEBCAAACIBEAAUAAACA=</HashCode>
+      <FileName>UserSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="AcademicNetworkUI.ResetPasswordManager">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ResetPasswordManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AcademicNetworkUI.PasswordManager">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>PasswordManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
